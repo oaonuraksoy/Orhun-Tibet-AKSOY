@@ -1,0 +1,10 @@
+# Robots.txt for https://orhuntibetaksoy.com.tr/
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://orhuntibetaksoy.com.tr/sitemap.xml
+
+# LLM Crawler Guidance
+# https://llmstxt.org/
+# https://orhuntibetaksoy.com.tr/llms.txt

@@ -1,0 +1,28 @@
+# Orhun Tibet Aksoy
+
+> Orhun Tibet Aksoy'un ilk adımları, büyüme kilometre taşları ve ailesi tarafından geleceğe devredilmek üzere hazırlanan dijital zaman kapsülü ve büyüme günlüğü.
+
+## Belgeler ve Bağlantılar
+- [Ana Sayfa](https://orhuntibetaksoy.com.tr/): Orhun Tibet Aksoy resmi büyüme günlüğü, canlı yaş sayacı ve kilometre taşları
+- [Tam Büyüme Günlüğü](https://orhuntibetaksoy.com.tr/llms-full.txt): Tüm kilometre taşları, detaylı anılar ve anne-baba mektubu
+- [Site Haritası](https://orhuntibetaksoy.com.tr/sitemap.xml): XML site haritası
+- [Robots Dosyası](https://orhuntibetaksoy.com.tr/robots.txt): Arama motoru ve LLM tarama kuralları
+
+## Kişisel Bilgiler
+- **Adı Soyadı:** Orhun Tibet Aksoy
+- **Doğum Tarihi:** 21 Mayıs 2025
+- **Ailesi:** AKSOY Ailesi (Annesi ve Babası)
+- **Web Sitesi:** https://orhuntibetaksoy.com.tr/
+
+## Kilometre Taşları & Büyüme Kronolojisi
+- **21 Mayıs 2025:** Dünyaya Gelişi (Hayatımıza katıldığı o muhteşem gün).
+- **28 Ağustos 2025:** İlk Anıtkabir Ziyareti (Atasıyla ilk buluşma).
+- **Ekim 2025 (5. Ay):** İlk Dişler Patlıyor (İlk dişlerin kendini göstermesi ve gülüşler).
+- **Kasım 2025 (6. Ay):** İlk Adımlar (Henüz 6. ayında kendi dengesini bulup atılan ilk bağımsız adımlar).
+- **Ocak 2026:** Kendi Kendine Beslenme Serüveni (Salatalık kemirme, mama sandalyesinde kendi kendine beslenme ve meşhur labne peyniri operasyonu).
+- **Şubat 2026 (8-9. Ay):** İlk Kelime: "GAK!" (Kargaların yoğun mesaisi ve manipülasyonu sayesinde kayıtlara geçen ilk resmi kelime: GAK!).
+- **Temmuz 2026:** İlk Tatil ve Kumsaldaki Özgür Adımlar (Antalya Kemer'de ailecek ilk tatil. Yürümeyi aylar öncesinden öğrenmiş adımlarla kumsalda özgürce koşma).
+- **30 Ağustos 2026:** İkinci Anıtkabir Ziyareti (Bu kez ana kucağında değil, kendi ayakları üzerinde dimdik durarak ve gururla yürüyerek yapılan 30 Ağustos Zafer Bayramı ziyareti).
+
+## Dijital Miras Notu
+Orhun Tibet'in doğduğu ilk günlerde adına alınan bu alan adı, günü geldiğinde kendi hayallerini ve hikâyesini yazması için kendisine devredilecek bir sevgi ve dijital miras projesidir.

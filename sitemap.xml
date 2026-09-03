@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://orhuntibetaksoy.com.tr/</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://orhuntibetaksoy.com.tr/assets/images/orhuntibetaksoy_bg.webp</image:loc>
+      <image:title>Orhun Tibet Aksoy</image:title>
+      <image:caption>Orhun Tibet Aksoy Büyüme Günlüğü ve Dijital Miras</image:caption>
+    </image:image>
+  </url>
+</urlset>
